@@ -20,7 +20,7 @@ class MainWindow(QWidget):
         self.setWindowIcon(QIcon('bar_icon.png'))
         self.show()
 
-        self.setWindowTitle("지도만들기 Final_프로그램 외부공유금지!!!")
+        self.setWindowTitle("지도만들기")
         self.resize(1000, 800)
 
         # 화면 중앙으로 위치시킴
